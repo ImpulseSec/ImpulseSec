@@ -1,4 +1,4 @@
-🛡 Cybersecurity Specialist | Continuous Learner | Protector of Digital Realms 🛡
+🛡 Cybersecurity Specialist | Continuous Learner | CTF Player | Protector of Digital Realms 🛡
 
 Hello! I'm a dedicated Cybersecurity Specialist with a passion for fortifying digital landscapes against evolving threats. With over a year of experience in the field, I specialize in threat detection, mitigation, and the implementation of security measures.
 

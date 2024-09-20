@@ -1,12 +1,8 @@
-🛡 Cybersecurity Specialist | Continuous Learner | CTF Player | Protector of Digital Realms 🛡
-
-Hello! I'm a dedicated Cybersecurity Specialist with a passion for fortifying digital landscapes against evolving threats. With over a year of experience in the field, I specialize in threat detection, mitigation, and the implementation of security measures.
+🛡 Cybersecurity Specialist  | CTF Player | 
 
 🚀 Professional Journey:
 
-I’m currently serving as a Cybersecurity Specialist, where I conduct regular phishing campaigns to assess risk factors and recommend robust mitigation strategies. 
-Advocate for the adoption of innovative security technologies and tools, while ensuring adherence to industry standards such as NIST, ISO 27001, and SOC 2 Type 2. 
-Committed to enhancing cybersecurity awareness among employees through tailored training programs, empowering them with knowledge of best practices and proactive defense strategies.
+Seasoned IT professional with experience in IT support and cybersecurity, specializing in incident response, threat detection, and compliance with standards like NIST, ISO 27001, and SOC 2 Type 2. Expertise in managing Active Directory and Microsoft Azure, deploying advanced security technologies, and reducing phishing rates through effective training. Committed to optimizing IT infrastructure and enhancing system security to drive organizational excellence. Committed to applying my technical acumen and experience to bolster IT security and operational superiority, I am eager to take on new challenges that will drive further advancements in organizational security and technology.
 
 🔍 Skills & Expertise:
 
@@ -15,9 +11,17 @@ Committed to enhancing cybersecurity awareness among employees through tailored 
 - Passionate about security awareness training, bridging the gap between technical complexities. and everyday user understanding.
 - Well-versed in industry standards including NIST, SOC 2 Type 2, and ISO 27001, ensuring regulatory compliance and robust security frameworks.
 
+🔍 Technical Skills:
+
+•	Incident Response and Management  •	Threat Detection and Mitigation • Security Policy Development  • Compliance and Regulatory knowledge
+•	NIST, ISO 27001, SOC 2 Type 2	    •	Active Directory Management     •	Microsoft Azure              • Microsoft Defender 
+•	Vantaa                            •	Phishing Campaign Training      •	Risk Assessment              • Incident Investigation
+•	Python	                          •	System Analysis                 •	Log Analysis                 • Network Security 
+•	Threat Analysis                   • Linux
+
 📈 Continuously Improving:
 
-🎯 Dedicated to staying abreast of the latest cybersecurity threats and trends, perpetually refining our defense mechanisms to combat evolving risks. 
+🎯 Dedicated to staying abreast of the latest cybersecurity threats and trends, perpetually refining my defense mechanisms to combat evolving risks. 
 
 🤝 Open to networking opportunities, collaborations, and knowledge-sharing endeavors within the cybersecurity community. 
 
